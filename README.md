@@ -55,7 +55,7 @@ I'm a passionate full-stack developer with over 6 years of experience in web app
 
 ## 📈 GitHub Stats
 
-![Usama Bin Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1developer-ubt&hide=prs,stars&show_icons=true&theme=radical)
+<!-- ![Usama Bin Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1developer-ubt&hide=prs,stars&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1developer-ubt&layout=compact&theme=radical)
 
